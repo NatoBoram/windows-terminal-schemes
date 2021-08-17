@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"arcticicestudio.nord-visual-studio-code",
+		"davidanson.vscode-markdownlint",
+		"github.vscode-pull-request-github",
+		"ms-vscode.github-issues-prs",
+		"teabyii.ayu"
+	]
+}
